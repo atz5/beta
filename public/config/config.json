@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x58eaf695e47953b1afa6e29da8a9f11ed556c15e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x58eaf695e47953b1afa6e29da8a9f11ed556c15e",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Wakanda Warriors NFT",
+  "SYMBOL": "Wakanda NFT",
+  "MAX_SUPPLY": 6800,
+
+  "WEI_COST": 120000000000000000,
+  
+  "DISPLAY_COST": 0.12,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
